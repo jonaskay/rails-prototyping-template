@@ -2,7 +2,7 @@
 
 ## About
 
-This is a [Rails application template](http://guides.rubyonrails.org/rails_application_templates.html) for getting a project (with my choice of tooling) up and running as fast as possible.
+This is a [Rails application template](http://guides.rubyonrails.org/rails_application_templates.html) for getting a project up and running as fast as possible (with my choice of tooling).
 
 ## Included Libraries
 
