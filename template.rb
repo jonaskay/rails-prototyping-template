@@ -64,7 +64,7 @@ def add_tailwind_css
   @@after_bundle_callbacks.push(Callback.new(
     'create_file', ['app/javascript/packs/tailwindcss/components.css', '@tailwind components;']))
   @@after_bundle_callbacks.push(Callback.new(
-    'create_file', ['app/javascript/packs/tailwindscss/utilities.css', '@tailwind utilities;']))
+    'create_file', ['app/javascript/packs/tailwindcss/utilities.css', '@tailwind utilities;']))
   @@after_bundle_callbacks.push(Callback.new(
     'create_file',
     ['app/javascript/packs/components.css', '/* Your custom component classes go here :) */']))
